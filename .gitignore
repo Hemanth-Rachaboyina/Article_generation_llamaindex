@@ -5,6 +5,7 @@ __pycache__/
 
 # Virtual environments
 venv_langchain/
+Test_files/
 .env/
 
 # OS files
