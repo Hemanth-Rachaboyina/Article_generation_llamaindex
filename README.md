@@ -416,18 +416,9 @@ class MainWorkflow(Workflow):
 ```
 
 
-- [ ] Support for multiple languages
-- [ ] Custom scoring models
-- [ ] Article templates library
-- [ ] Analytics dashboard
-- [ ] A/B testing for prompts
-- [ ] Integration with CMS platforms
-- [ ] Plagiarism detection
-- [ ] SEO score calculator
-- [ ] Export to multiple formats (PDF, DOCX, HTML)
 
 ---
 
-**Built with ❤️ by [Your Name/Team]**
+**Built with ❤️ by [Hemanth Royal]**
 
 Last Updated: December 2025
