@@ -13,7 +13,7 @@ import uuid
 # from llama_index.core.llms import ChatMessage
 # from llama_index.core.memory import ChatMemoryBuffer
 # from llama_index.core.llms import ChatMessage, MessageRole
-from memory_management import  read_memory , to_openai_messages , append_qa
+# from memory_management import  read_memory , to_openai_messages , append_qa
 
 
 load_dotenv()
@@ -42,7 +42,7 @@ async def Content_writer(query:str):
     print("Entered Content Generator Function")
     print("Writing the Article .......")
     completion = client.chat.completions.parse(
-            model="gpt-4o",
+            model="gpt-4.1",
             messages=[
                 # *to_openai_messages(read_memory()),
                 {"role": "system", "content": Article_Generator_Prompt},
