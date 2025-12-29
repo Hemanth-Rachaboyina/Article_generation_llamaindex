@@ -17,9 +17,9 @@
 
 
 
-[Demo Screenshot](assets/2.png)
+![Demo Screenshot](assets/2.png)
 
-![Demo Screenshot](3.png)
+![Demo Screenshot](assets/3.png)
 
 
 ## 🎥 Demo Video
